@@ -1,0 +1,5 @@
+import turtle
+kame = turtle.Turtle()
+kame.shape('turtle')
+kame.shapesize(2,3,3)
+kame.forword(150)
